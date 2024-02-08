@@ -1,1 +1,1 @@
-# next13masters
+# Next.js Masters course project
